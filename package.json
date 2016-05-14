@@ -1,0 +1,21 @@
+{
+  "name": "double-dollar",
+  "version": "1.0.0",
+  "description": "forEach over DOM elements more easily",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mrmartineau/double-dollar.git"
+  },
+  "keywords": [
+    "queryselectorall",
+    "queryselector",
+    "dom",
+    "elements"
+  ],
+  "author": "Zander Martineau",
+  "license": "MIT"
+}
